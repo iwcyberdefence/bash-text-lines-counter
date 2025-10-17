@@ -49,5 +49,38 @@ Do you want to print all these lines? Y or N : y
 
 <img width="923" height="751" alt="image" src="https://github.com/user-attachments/assets/cf9a1866-bef3-428c-a544-c67717c8793b" />
 
+# 📂 Example Directory Structure
+/home/user/documents/
+├── notes1.txt
+├── notes2.txt
+└── subfolder/
+    └── extra.txt
+
+# 🧠 Concepts Used
+find command with -print0
+
+Nested while loops with read -r -d ''
+
+Counting lines using wc -l
+
+Lowercasing user input with ${var,,}
+
+Conditional branching (if, elif, else)
+
+# 🧰 Requirements
+
+Bash shell (Linux, macOS, WSL)
+
+find, wc utilities (usually preinstalled)
+
+---------------------------------------------------
+
+# 👨‍💻 Author
+
+M-Imran — IW Cyber Defence
+Exploring Linux automation and Bash scripting.
+
+---------------------------------------------------
+
 # ----------------- End -----------------
 
